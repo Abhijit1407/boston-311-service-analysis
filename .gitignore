@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+.ipynb_checkpoints/
+data/311_Service_Requests_2025.csv
+data/311_Service_Requests_2025_updated.csv
