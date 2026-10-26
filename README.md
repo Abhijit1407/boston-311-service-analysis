@@ -32,7 +32,7 @@ response times and resource allocation across the city.
 - `data/` — source dataset from Boston's Open Data Portal
 - `outputs/` — generated summary tables, organized by insight area
 - `dashboard/` — Power BI dashboard file (.pbix)
-- `REPORT.md` — full written analysis and recommendations
+- `REPORT.pdf` — full written analysis and recommendations
 
 ## Recommendations Summary
 
